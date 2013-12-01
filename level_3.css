@@ -1,0 +1,14 @@
+body{
+  background: url(ext/tree_bark.png);
+  color: #FBD23C;
+  text-shadow: 0 0 2px #000;
+  font-family: 'Comic Sans MS', 'Trebuchet MS', Arial, sans-serif;
+  text-align: center;
+}
+
+.bad, .good{
+  display: block;
+  position: absolute;
+  width: 80px;
+  cursor: pointer;
+}
