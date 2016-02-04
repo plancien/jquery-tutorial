@@ -3,6 +3,8 @@ jquery-tutorial
 
 Some examples I used when teaching jQuery basics.
 
+See the result [here](https://cdn.rawgit.com/plancien/jquery-tutorial/master/index.html)
+
 If you want to use it as an exercise :
 * open index.html
 * go and watch level 1 page
