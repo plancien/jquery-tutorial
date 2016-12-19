@@ -13,3 +13,4 @@ If you want to use it as an exercise :
 * don't go to level 2 until you understand every line in level_1.js (visit jQuery doc when needed)
 * do the same for the following levels
 
+[Visit the final step here.](https://cdn.rawgit.com/plancien/jquery-tutorial/master/level_4.html)
